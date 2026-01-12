@@ -1,5 +1,5 @@
 public class Books {
-    private String bookPath = "/Users/himanshu/github/Library Management System/src/books.csv";
+    private String bookPath = "src/books.csv";
     private int bookID;
     private String bookName;
     private String author;
