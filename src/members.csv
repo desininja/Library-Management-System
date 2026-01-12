@@ -1,0 +1,7 @@
+memberID,memberName,phone,email,borrowedCount
+20001,"Member 1",00001,"mem1@gmail.com",2
+20002,"Member 3",00002,"mem2@gmail.com",0
+20003,"Member 4",00003,"mem3@gmail.com",1
+20004,"Member 5",00004,"mem4@gmail.com",2
+20005,"Member 6",00005,"mem5@gmail.com",4
+20006,"Member 7",00006,"mem6@gmail.com",5

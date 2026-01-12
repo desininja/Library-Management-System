@@ -1,5 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+
+        Books myBook = new Books();
+        myBook.loadBookByID(100);
+        System.out.println(myBook);
+
     }
 }

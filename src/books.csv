@@ -1,0 +1,8 @@
+bookID,bookName,Author,publicationHouse,availableCount
+10001,"Book1","Author1","Pub1",4
+10002,"Book2","Author2","Pub2",5
+10003,"Book3","Author3","Pub3",2
+10004,"Book4","Author4","Pub4",1
+10005,"Book5","Author5","Pub5",1
+10006,"Book6","Author6","Pub6",1
+10007,"Book7","Author7","Pub7",1
